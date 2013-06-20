@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1371745381 source:c:\users\user\documents\git\xcrypt\xcrypt\main.cpp
+	<iostream>
+	<string>
+
+1371746183 source:c:\users\user\documents\git\xcrypt\xcrypt\xcrypt.cpp
+	"XCrypt.h"
+
+1371746220 c:\users\user\documents\git\xcrypt\xcrypt\xcrypt.h
+	<string>
+
